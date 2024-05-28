@@ -1,1 +1,1 @@
-Hey there, I'm Yogi Paudyal ![giphy](https://github.com/YogiPaudyal/YogiPaudyal/assets/144118865/9aa27e3c-362b-4e9b-ac65-4117e5b5c348)
+Hey there, I'm Yogi Paudyal ![hello-waving-frog](https://github.com/YogiPaudyal/YogiPaudyal/assets/144118865/f1a96f55-3ac8-46ac-94df-624ed44adffc)
