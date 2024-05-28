@@ -2,6 +2,6 @@
 <h5 align="center">Attempting to make the world a better place, one line of code at a time</h5><br/>
 
 <p align="center">
-  <a target="_blank" href="https://yogipaudyal.github.io">Website</a>
-  <a target="_blank" href="https://linkedin.com/in/yougansu">LinkedIn</a>
+  • <a target="_blank" href="https://yogipaudyal.github.io">Website</a>
+  • <a target="_blank" href="https://linkedin.com/in/yougansu">LinkedIn</a>
 </p>
